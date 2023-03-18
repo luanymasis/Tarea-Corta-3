@@ -1,5 +1,7 @@
 // Clase Rectángulo
 
+import Figura.*;
+
 public class Rectangulo extends Figura{
     private double largo;
     private doble ancho;

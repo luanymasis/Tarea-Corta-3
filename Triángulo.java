@@ -1,5 +1,7 @@
 // Clase Triángulo
 
+import Figura.*;
+
 public class Triangulo extends Figura{
     private double base;
     private double altura;
